@@ -11,6 +11,6 @@ The idea is to have just the bare essentials (for now):
 
 ## Credits
 
-- Favicon generated via
+- Favicon generated via <https://favicon.io/>
 - Favicon image: <https://www.svgrepo.com/svg/401332/construction>
 - `og:image`: <https://unsplash.com/photos/9OB46apMbC4>
