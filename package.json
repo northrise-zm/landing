@@ -11,11 +11,11 @@
     "start": "parcel src/index.html --open"
   },
   "devDependencies": {
-    "@parcel/packager-raw-url": "^2.5.0",
-    "@parcel/transformer-webmanifest": "^2.5.0",
-    "parcel": "^2.5.0",
-    "rimraf": "^3.0.2",
-    "standard-version": "^9.5.0"
+    "@parcel/packager-raw-url": "2.5.0",
+    "@parcel/transformer-webmanifest": "2.5.0",
+    "parcel": "2.5.0",
+    "rimraf": "3.0.2",
+    "standard-version": "9.5.0"
   },
   "browserslist": [
     "defaults",
