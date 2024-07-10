@@ -14,7 +14,7 @@
     "@parcel/packager-raw-url": "2.6.2",
     "@parcel/transformer-webmanifest": "2.6.2",
     "parcel": "2.6.2",
-    "rimraf": "5.0.8",
+    "rimraf": "5.0.9",
     "standard-version": "9.5.0"
   },
   "browserslist": [
